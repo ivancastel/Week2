@@ -80,6 +80,6 @@
                 android:layout_height="wrap_content"
                 android:text="@string/ok_label"
                 android:id="@+id/button3" android:layout_below="@+id/editText4" android:layout_centerHorizontal="true"
-                android:layout_marginTop="61dp"/>
+                android:layout_marginTop="61dp" android:onClick="addContact"/>
     </RelativeLayout>
 </LinearLayout>
